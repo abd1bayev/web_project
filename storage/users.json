@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "first_name": "aaa",
+        "last_name": "aaa",
+        "email": "aaa@gmail.com",
+        "password_hash": "$2y$10$OyqL6bT2vutLmsHNQHQHb.NqUUIdGncc0K.QLcrtQB7GQuNQkjSym",
+        "bio": "aaa",
+        "created_at": "2026-06-19 06:32:39",
+        "updated_at": "2026-06-19 06:32:39"
+    },
+    {
+        "id": 2,
+        "first_name": "Jasur",
+        "last_name": "Abdibayev",
+        "email": "jasurabdibayev0@gmail.com",
+        "password_hash": "$2y$10$\/v8QtnbQus1d\/IYuwkZEFONR.IB7uXhxXf0NL6pNzJRm\/3Sj0m5GO",
+        "bio": "zcszc",
+        "created_at": "2026-06-19 06:35:24",
+        "updated_at": "2026-06-19 06:35:24"
+    }
+]
